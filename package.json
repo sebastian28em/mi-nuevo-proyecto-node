@@ -1,13 +1,16 @@
 {
-  "name": "nodejs-proyecto",
+  "name": "sebastian28em",
   "version": "1.0.0",
-  "description": "Este proyecto es mi package.json en Node.js",
+  "description": "mi proyecto node",
+  "repository": {
+    "type": "git",
+    "url": "sebastian28em"
+  },
+  "license": "ISC",
+  "author": "Sebastian Morinigo",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Sebastian Morinigo",
-  "license": "ISC",
-  "type": "commonjs"
+  }
 }
