@@ -1,16 +1,13 @@
 {
-  "name": "sebastian28em",
+  "name": "repositorio",
   "version": "1.0.0",
-  "description": "mi proyecto node",
-  "repository": {
-    "type": "git",
-    "url": "sebastian28em"
-  },
-  "license": "ISC",
-  "author": "Sebastian Morinigo",
-  "type": "commonjs",
+  "description": "Mi proyecto node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "keywords": ["freecodecamp", "nodejs", "proyecto", "desafío"],
+  "author": "sebastian morinigo",
+  "license": "MIT",
+  "type": "commonjs"
 }
